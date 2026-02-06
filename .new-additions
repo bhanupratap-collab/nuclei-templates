@@ -26,6 +26,7 @@ http/cves/2025/CVE-2025-54068.yaml
 http/cves/2026/CVE-2026-21877.yaml
 http/cves/2026/CVE-2026-22812.yaml
 http/cves/2026/CVE-2026-24128.yaml
+http/cves/2026/CVE-2026-24128_new.yaml
 http/default-logins/gude/gude-default-login.yaml
 http/default-logins/rustdesk-webclient-default-login.yaml
 http/exposed-panels/cisco-ucm-selfcare-portal.yaml
